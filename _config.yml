@@ -1,0 +1,19 @@
+theme: minima
+# 主题配置（GitHub官方默认主题，稳定兼容Pages服务）
+theme: minima
+
+# 站点基础信息（全站生效，会显示在页面标题、浏览器标签、搜索引擎结果中）
+title: 我的个人博客
+description: 这里是我的个人主页，记录技术学习、生活日常与项目作品
+author: 你的名字
+language: zh-CN
+
+# 站点地址配置（必须修改为你自己的信息）
+# 格式说明：
+# url: https://你的GitHub用户名.github.io
+# baseurl: /你的仓库名（根域名仓库留空""，比如xxx.github.io仓库）
+url: "https://jsjssisiizj.github.io"
+baseurl: "/skills-github-pages"
+
+# Markdown渲染配置（GitHub Pages默认配置，无需修改）
+markdown: kramdown
