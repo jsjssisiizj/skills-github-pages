@@ -71,26 +71,25 @@ layout: default
 
 <div class="container">
   <div class="hero">
-    <h1>你好，我是XXX 👋</h1>
+    <h1>你好，我是nineonegods 👋</h1>
     <p>欢迎来到我的个人主页 | 开发者 | 技术爱好者</p>
   </div>
 
   <div class="section">
     <h2>关于我</h2>
-    <p>这里可以写你的自我介绍，比如你的技术栈、兴趣爱好、学习方向等等。</p>
-    <p>示例：我专注于前端开发，熟悉 React、Vue 等框架，同时也对后端、云计算有浓厚的兴趣。</p>
+    <p>阅片无数</p>
   </div>
 
   <div class="section">
     <h2>我的项目</h2>
     <div class="project-card">
-      <h3>项目名称1</h3>
-      <p>项目的详细介绍，比如用了什么技术栈，解决了什么问题。</p>
+      <h3>国产</h3>
+      <p>观看国产电影360min，感觉良好</p>
       <a href="https://github.com/你的用户名/项目1" target="_blank">查看源码</a>
     </div>
     <div class="project-card">
-      <h3>项目名称2</h3>
-      <p>项目的详细介绍，比如用了什么技术栈，解决了什么问题。</p>
+      <h3>日韩</h3>
+      <p>日韩电影。</p>
       <a href="https://github.com/你的用户名/项目2" target="_blank">查看源码</a>
     </div>
   </div>
@@ -99,8 +98,8 @@ layout: default
     <h2>博客与笔记</h2>
     <p>这里会记录我的学习笔记、技术踩坑记录、生活日常，欢迎交流。</p>
     <ul>
-      <li><a href="./posts/first-post.html">我的第一篇博客</a></li>
-      <li><a href="./notes/frontend.html">前端学习笔记汇总</a></li>
+      <li><a href="./posts/first-post.html">我的第一篇</a></li>
+      <li><a href="./notes/frontend.html">观影汇总</a></li>
     </ul>
   </div>
 
@@ -108,7 +107,7 @@ layout: default
     <h2>联系我</h2>
     <div class="contact-links">
       <a href="https://github.com/你的用户名" target="_blank">GitHub</a>
-      <a href="mailto:你的邮箱@example.com">邮箱</a>
+      <a href="mailto:whw2151@163.com">邮箱</a>
       <a href="https://juejin.cn/user/你的ID" target="_blank">掘金</a>
       <a href="https://www.zhihu.com/people/你的ID" target="_blank">知乎</a>
     </div>
